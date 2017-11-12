@@ -1,0 +1,3 @@
+export PATH=~/anaconda3_410/bin:$PATH
+conda install -c anaconda biopython --yes
+pip install python-docx
