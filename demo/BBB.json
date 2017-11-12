@@ -1,0 +1,110 @@
+[{
+"<000>" : "                          SEQUENCE LISTING",
+"<110>" : "   GoldenGrape Phama",
+"<120>" : "   Antibodies of GG",
+"<130>" : "   42.5TH",
+"<160>" : "   986",
+"<170>" : "   PatentIn version 3.5"
+},
+{
+"<210>" : "   1",
+"<211>" : "   111",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   CJK42 Heavy Chain Variable Region",
+"<400>" : "   1",
+"<seq>" : " ",
+"<seq>" : " Gln Ser Ser Arg Arg Ser Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln1               5                   10                  15Leu Ser Ser Ser Ser Ser Pro Pro Pro Pro Ser Ser Ser Ser Gly Leu            20                  25                  30Gly Gly Gly Arg Arg Arg Ala Ala Ala Met Met Met Met Met Met Met        35                  40                  45Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser    50                  55                  60Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr65                  70                  75                  80Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro                85                  90                  95Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg            100                 105                 110"
+},
+{
+"<210>" : "   2",
+"<211>" : "   111",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   CJK42 Light Chain Variable Region",
+"<400>" : "   1",
+"<seq>" : " ",
+"<seq>" : " Gln Gln Gln Gln Ser Ser Gln Gln Gln Gln Gln Asn Asn Asp Asp Asp1               5                   10                  15Leu Leu Leu Leu Ser Leu Asp Asp Leu Leu Leu Leu Leu Leu Leu Leu            20                  25                  30Met Met Met Met Met Met Met Met Met Met Met Met Met Met Met Met        35                  40                  45Ser Ser Ala Ala Ala Ala Ala Gly Gly Gly Tyr Thr Ser Ser Ser Ser    50                  55                  60Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr65                  70                  75                  80Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro                85                  90                  95Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg            100                 105                 110"
+},
+{
+"<210>" : "   3",
+"<211>" : "   5",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   CJK42 HC CDR1",
+"<400>" : "   3",
+"<seq>" : " Ser Ser Arg Arg Ser1               5"
+},
+{
+"<210>" : "   4",
+"<211>" : "   14",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   CJK42 HC CDR2",
+"<400>" : "   4",
+"<seq>" : " Ser Ser Ser Ser Ser Pro Pro Pro Pro Ser Ser Ser Ser Gly1               5                   10"
+},
+{
+"<210>" : "   5",
+"<211>" : "   9",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   CJK42 HC CDR3",
+"<400>" : "   5",
+"<seq>" : " Gly Gly Gly Arg Arg Arg Ala Ala Ala1               5"
+},
+{
+"<210>" : "   6",
+"<211>" : "   13",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   CJK42 LC CDR1",
+"<400>" : "   6",
+"<seq>" : " Gln Ser Ser Gln Gln Gln Gln Gln Asn Asn Asp Asp Asp1               5                   10"
+},
+{
+"<210>" : "   7",
+"<211>" : "   7",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   CJK42 LC CDR2",
+"<400>" : "   7",
+"<seq>" : " Leu Leu Leu Ser Leu Asp Asp1               5"
+},
+{
+"<210>" : "   8",
+"<211>" : "   10",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   CJK42 LC CDR3",
+"<400>" : "   8",
+"<seq>" : " Ala Ala Ala Ala Ala Gly Gly Gly Tyr Thr1               5                   10"
+},
+{
+"<210>" : "   9",
+"<211>" : "   113",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   Humanized VH 1",
+"<400>" : "   9",
+"<seq>" : " Gln Gln Gln Gln Leu Leu Leu Leu Leu Gln Gln Gln Gln Gln Gln Gln1               5                   10                  15Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu            20                  25                  30Met Met Met Met Met Met Met Met Met Met Met Met Met Met Met Met        35                  40                  45Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser    50                  55                  60Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr65                  70                  75                  80Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro                85                  90                  95Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg            100                 105                 110Ser"
+},
+{
+"<210>" : "   10",
+"<211>" : "   113",
+"<212>" : "   PRT",
+"<213>" : "   Artificial Sequence",
+"<220>" : " ",
+"<223>" : "   Humanized VL 2",
+"<400>" : "   10",
+"<seq>" : " Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln Gln1               5                   10                  15Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu Leu            20                  25                  30Met Met Met Met Met Met Met Met Met Met Met Met Met Met Met Met        35                  40                  45Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser Ser    50                  55                  60Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr Thr65                  70                  75                  80Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro Pro                85                  90                  95Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg Arg            100                 105                 110Ser"
+}]
